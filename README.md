@@ -20,15 +20,15 @@ The following features of dataset is analyzed
 ## 📊 Key Visualizations
 The following visualizations were created to explore the dataset
 
- - Age distribution of surviving passengers
+ - **Age distribution of surviving passengers**
    ![Age Distribution of Surviving Passengers](images/age_distrivution_by_survival.png)
- - Distribution of numerical features
+ - **Distribution of numerical features**
    ![Distribution_of_numerical_features](images/distribution_of_numerical_features.png)
- - Relationship between survival status and fare
+ - **Relationship between survival status and fare**
    ![Relationship between survival status and fare](images/survival_vs_fare.png)
- - Pairwise relationship between numerical features
+ - **Pairwise relationship between numerical features**
     ![pairwise of numerical features](images/pairwise_of_numerical_features.png)
- - Correlation between numerical features
+ - **Correlation between numerical features**
    ![Correlation heatmap](images/correlation_heatmap.png)
 
 ## 🛠 Tools Used
